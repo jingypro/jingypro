@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jingypro
 - 👀 I’m interested in cloud technology, solution architecting and development
 - 🌱 I’m currently learning serverless computing, full stack web development, and architecting in general
-- 💞️ I’m looking to collaborate on <unknown>
+- 💞️ I’m looking to collaborate on creating a web app for story writers
 - 📫 How to reach me: jingyan.pro@gmail.com
 
 <!---
